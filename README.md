@@ -62,6 +62,10 @@ You can:
 - Add new fields or modify the layout by editing `index.html`.
 - Adjust colors, fonts, or other styles by modifying `style.css`.
 
+## Acknowledgments
+Design inspiration from freeCodeCamp(https://www.freecodecamp.org/)
+Icons and fonts from Google Fonts or other sources.
+
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
 
