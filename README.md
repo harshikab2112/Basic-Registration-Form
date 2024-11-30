@@ -18,7 +18,7 @@ This is a simple **Basic Registration Form** project created using **HTML** and 
   - Age
   - Referrer
   - Bio
-  -Terms and Condition
+  -Terms and Conditions
 - Styled with modern CSS for a clean look
 - Submit button for form submission
 
@@ -44,7 +44,7 @@ To run this project locally:
 
 ## Usage
 1. Open the form in your web browser.
-2. Fill out the required fields (e.g., First Name,Last Name, Email, Password, etc..).
+2. Fill out the required fields (e.g., First Name, Last Name, Email, Password, etc..).
 3. Click the **Submit** button.  
    *(Note: This form is static and does not include backend functionality.)*
 
@@ -55,7 +55,7 @@ To run this project locally:
 ## Example
 Below is an example screenshot of the registration form:
 
-![Screenshot of Basic Registration Form](screenshot.png)
+![Screenshot of Basic Registration Form](Screenshot.png)
 
 ## Customization
 You can:
