@@ -1,8 +1,3 @@
-Here's the updated `README.md` file for your project:
-
----
-
-```markdown
 # Basic Registration Form
 
 This is a simple **Basic Registration Form** project created using **HTML** and **CSS**. The form is designed to collect user information in a clean and user-friendly layout.
@@ -73,7 +68,3 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 **Created with ❤️ by [Harshika Bansal](https://github.com/harshikab2112)**
 ```
-
----
-
-Let me know if you'd like any additional tweaks!
